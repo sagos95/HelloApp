@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int firstNumber, secondNumber;
+        int firstNumber, secondNumber, lastNumber;
         Console.WriteLine("Введите первое число - ");
 
         firstNumber = Convert.ToString (Console.ReadLine());
