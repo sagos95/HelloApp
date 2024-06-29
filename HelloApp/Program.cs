@@ -35,12 +35,5 @@ class Program
             Console.WriteLine(firstNumber - secondNumber);
 
         }
-
-
-
-
     }
-}
-
-    }
-}   
+} 
